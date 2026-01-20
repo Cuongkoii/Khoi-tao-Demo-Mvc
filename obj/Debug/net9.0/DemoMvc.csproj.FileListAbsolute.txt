@@ -94,3 +94,4 @@ D:\Ptpmql\DemoMvc\obj\Debug\net9.0\refint\DemoMvc.dll
 D:\Ptpmql\DemoMvc\obj\Debug\net9.0\DemoMvc.pdb
 D:\Ptpmql\DemoMvc\obj\Debug\net9.0\DemoMvc.genruntimeconfig.cache
 D:\Ptpmql\DemoMvc\obj\Debug\net9.0\ref\DemoMvc.dll
+D:\Ptpmql\DemoMvc\obj\Debug\net9.0\DemoMvc.sourcelink.json
