@@ -3,24 +3,24 @@
 DemoMvcApp
 
 -Controllers
-    + HomeController.cs
+    HomeController.cs
 
 -Models
-    + ErrorViewModel.cs
+    ErrorViewModel.cs
 
 -Views
-        + Home
-            Index.cshtml
-        + Shared
-            Layout.cshtml
-            Error.cshtml
-            ViewImports.cshtml
-            ViewStart.cshtml
+    Home
+        Index.cshtml
+    Shared
+        Layout.cshtml
+        Error.cshtml
+        ViewImports.cshtml
+        ViewStart.cshtml
            
-─ wwwroot
-     + css
-     + js
-     + lib
+-wwwroot
+    css
+    js
+    lib
 
 ─ appsettings.json
 ─ appsettings.Development.json
