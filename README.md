@@ -1,31 +1,31 @@
 **1. Tìm hiểu cấu trúc thư mục của dự án .Net MVC:**
    Dự án ASP.NET Core MVC có cấu trúc thư mục cơ bản như sau:
 DemoMvcApp
-│
-├── Controllers
-│   └── HomeController.cs
-│
-├── Models
-│   └── ErrorViewModel.cs
-│
-├── Views
-│   ├── Home
-│   │   └── Index.cshtml
-│   ├── Shared
-│   │   ├── _Layout.cshtml
-│   │   └── Error.cshtml
-│   └── _ViewImports.cshtml
-│   └── _ViewStart.cshtml
-│
-├── wwwroot
-│   ├── css
-│   ├── js
-│   └── lib
-│
-├── appsettings.json
-├── appsettings.Development.json
-├── Program.cs
-└── DemoMvcApp.csproj
+
+-Controllers
+    + HomeController.cs
+
+-Models
+    + ErrorViewModel.cs
+
+-Views
+        + Home
+            Index.cshtml
+        + Shared
+            Layout.cshtml
+            Error.cshtml
+            ViewImports.cshtml
+            ViewStart.cshtml
+           
+─ wwwroot
+     + css
+     + js
+     + lib
+
+─ appsettings.json
+─ appsettings.Development.json
+─ Program.cs
+─ DemoMvcApp.csproj
 🔹 Controllers
 -Chứa các Controller xử lý request từ người dùng.
 -Mỗi controller là một lớp C#.
