@@ -1,0 +1,14 @@
+@{
+    ViewBag.Title = "Hello";
+}
+
+<form method="post">
+    <label>Nhập họ tên:</label>
+    <input type="text" name="fullName" placeholder="Nhập họ tên" />
+    <button type="submit">Gửi</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <h3>@ViewBag.Message</h3>
+}
